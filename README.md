@@ -15,6 +15,8 @@ keras
 
 Results
 The model achieves an accuracy of 99.85% on the training set and 98.62% on the test set.
+<img width="334" alt="image" src="https://github.com/SONERIKHI/MNIST-DATASET-CNN/assets/112720079/7b6c5baf-1d11-47bc-aa59-dde1d49cff65">
+
 
 Discussion
 The model is able to achieve a high accuracy on the MNIST dataset because it is able to learn to identify the patterns in the images that correspond to each digit. However, the model is not perfect, and it can sometimes make mistakes. For example, the model might misclassify a 7 as a 9, or a 3 as a 5.
